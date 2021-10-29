@@ -1,0 +1,7 @@
+liste modifs:
+-Justifier les textes
+-Création de la newsletter
+-lien adresse mail pour "me contacter"
+-barre de défilement pour la liste des livres (y compris sur l'entête galerie). Faire pareil sur les articles de blog.
+-faire un "lire la suite" sur les résumés des livres sur la page d'accueil qui renvoie sur la galerie 
+-Redimensionner la bannière d'acceuil (bannière test "accueil" et bibli pour 2 formats test)

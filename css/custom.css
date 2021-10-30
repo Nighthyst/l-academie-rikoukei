@@ -1,1 +1,8 @@
 /* Your custom css code goes here */
+
+p {
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+#more {display: none;}
